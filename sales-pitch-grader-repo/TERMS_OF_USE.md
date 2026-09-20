@@ -1,5 +1,4 @@
 TERMS OF USE
-(Also available here: https://github.com/EpicInnovationsOfficial/Sales-Pitch-Grader/blob/main/sales-pitch-grader-repo/TERMS_OF_USE.md)
 
 Terms of Use
 Sales Pitch Grader is made available by Epic Innovations, Inc. free of charge, under the terms below. This is a plain-language summary of what you can and can't do with it, and what you're agreeing to by using it. It isn't a substitute for your own legal advice if you need certainty about a specific use case.
